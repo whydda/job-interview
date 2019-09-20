@@ -215,6 +215,7 @@
 11. Memcached vs Redis
 	* 캐시를 쓰는 이유는 정적인 데이터들(select쿼리) in memory 저장소에 저장하기 때문에 빠르게 데이터를 가져올 수 있다.
 		속도와 부하분산에 유리
+	* Memcached는 multi-thread Redis는 single-thread	
 	* Memcached는 최신의 기능보다는 안정성과 최적화에 주점을 두고 개발되고 있다.
 	* 노드의 추가,제거가 redis 보다 유리하게 설계되 있다. 
 	* Memcached는 값의 용량은 기본 1MB , 키값 250바이트 제한
