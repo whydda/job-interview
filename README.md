@@ -433,3 +433,5 @@ CPU 사용율과 메모리 대역폭 사용도 줄이고 커널모드와 사용�
 
 32. Apache VS Nginx
 	* https://taetaetae.github.io/2018/06/27/apache-vs-nginx/
+	
+33. Nested loop join, Merge join, Hash join 	
