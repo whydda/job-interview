@@ -434,4 +434,7 @@ CPU 사용율과 메모리 대역폭 사용도 줄이고 커널모드와 사용�
 32. Apache VS Nginx
 	* https://taetaetae.github.io/2018/06/27/apache-vs-nginx/
 	
-33. Nested loop join, Merge join, Hash join 	
+33. Nested loop join, Merge join, Hash join 
+
+34. 이벤트 드리븐과 메세지 큐 사용 이유
+Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. SQS eliminates the complexity and overhead associated with managing and operating message oriented middleware, and empowers developers to focus on differentiating work. Using SQS, you can send, store, and receive messages between software components at any volume, without losing messages or requiring other services to be available.
